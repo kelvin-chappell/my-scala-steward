@@ -29,6 +29,7 @@ jobs:
         name: Launch Scala Steward
         uses: scala-steward-org/scala-steward-action@v2
         with:
+          repos-file: 'repos.md'
           github-token: ${{ secrets.ADMIN_GITHUB_TOKEN }}
           sign-commits: true
           author-name: ${{ steps.import-gpg.outputs.name }}
