@@ -1,7 +1,4 @@
-- kelvin-chappell/commercial-expiry-service
-- kelvin-chappell/feria
 - kelvin-chappell/githubprs
-- kelvin-chappell/sandbox-scala
 - kelvin-chappell/sbt
 - kelvin-chappell/speechbrowser
 - kelvin-chappell/zio-testing123
