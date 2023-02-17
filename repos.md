@@ -1,3 +1,4 @@
+- kelvin-chappell/github-analysis
 - kelvin-chappell/githubprs
 - kelvin-chappell/sbt
 - kelvin-chappell/speechbrowser
