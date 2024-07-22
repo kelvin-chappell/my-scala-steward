@@ -1,6 +1,8 @@
 name: Launch Scala Steward
 
 on:
+  schedule:
+    - cron: '0 2 * * 1' # Runs at 2:00 AM GMT every Monday
   workflow_dispatch:
 
 jobs:
